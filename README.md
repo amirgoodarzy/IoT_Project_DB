@@ -1,5 +1,5 @@
 # IoT_Project_DB 
-#Project: Environmental Monitoring
+Project: Environmental Monitoring
 
 This project uses MQTT to monitor environmental sensors. MQTT is a lightweight messaging protocol for publishing and subscribing messages in IoT applications and real-time data exchange.
 

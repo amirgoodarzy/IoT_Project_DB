@@ -20,13 +20,17 @@ After some information is inserted into the databases, the data could be viewed 
 
 # Libraries Used
 
-## Paho-mqtt: Used in order to connect to the MQTT server.
+## Paho-mqtt:
+Used in order to connect to the MQTT server.
 
-## sqlite3: Used for the SQL database and its queries.
+## sqlite3:
+Used for the SQL database and its queries.
 
-## pymongo: Used to connect and maintain the information related to air sensors.
+## pymongo:
+Used to connect and maintain the information related to air sensors.
 
-## neo4j: GraphDatabase is imported from the neo4j library in order to connect to the database and execute Neo4j queries.
+## neo4j:
+GraphDatabase is imported from the neo4j library in order to connect to the database and execute Neo4j queries.
 
 # Prerequisites
 
